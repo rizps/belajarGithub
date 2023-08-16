@@ -2,4 +2,6 @@ halo ini hello.txt
 kali ini hello.txt di branch development udah udah di merge ke main branch
 lalu kita coba merge with an update file
 
-random text for the conflict
+
+this time we will merging our file but we try to make a conflict and solved it 
+
