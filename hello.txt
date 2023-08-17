@@ -7,4 +7,5 @@ this time we will merging our file but we try to make a conflict and solved it
 
 trying to make a squash merging (1)
 trying to make a squash merging (2)
+trying to make a squash merging (3)
 
